@@ -1,0 +1,11 @@
+{
+  "name": "cwp-24",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/express": "^4.17.6",
+    "express": "latest",
+    "multer": "latest",
+    "webdav": "latest",
+    "webdav-server": "latest"
+  }
+}
